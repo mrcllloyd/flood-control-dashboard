@@ -6,7 +6,7 @@ import streamlit as st
 import pydeck as pdk
 import plotly.express as px
 
-st.set_page_config(page_title="Flood Control Projects — Research Dashboard",
+st.set_page_config(page_title="Flood Control Projects — Dashboard",
                    layout="wide",
                    page_icon="🌊")
 
